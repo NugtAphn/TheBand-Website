@@ -10,8 +10,6 @@ html {
     scroll-behavior: smooth;
 }
 
-#main {}
-
 /* Class chung */
 .pull-right {
     float: right;
@@ -228,8 +226,6 @@ html {
     text-shadow: 0 0 1px #000;
 
 }
-
-#content {}
 
 #content .content-section {
     width: 800px;
